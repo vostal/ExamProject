@@ -24,7 +24,7 @@
 
 1. Склонируйте репозиторий:
 
-git clone https://github.com/ваш_логин/пиццерия.git
+git clone https://github.com/vostal/ExamProject.git
 
 
 2. Перейдите в директорию проекта:
